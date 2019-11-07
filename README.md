@@ -7,3 +7,6 @@ Perform classification using Decision Tree on a simplified version of the Titani
 
 ### Naive Bayes Classifier
 Perform classification using Naive Bayes with Laplacian Smoothing.
+
+### AdaBoost Classifier
+Perform classification by implementing adaptive boosting decision tree stubs (Titanic dataset). Used information-gain as the splitting criterion.
